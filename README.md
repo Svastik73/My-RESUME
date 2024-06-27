@@ -1,4 +1,6 @@
 # My-RESUME
-Personal Repo to manage the Resume...
+Personal Repository to manage the Resume...
 
 Inspiration from $[https://github.com/sb2nov/resume]
+
+
